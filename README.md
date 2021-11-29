@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on world generation algorithms
+- 🔭 I’m currently working on Rubik's Cube solver and GUI
 <!-- - 🌱 I’m currently learning -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
