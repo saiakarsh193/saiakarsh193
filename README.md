@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Rubik's Cube solver and GUI
-<!-- - 🌱 I’m currently learning -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with  -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: sai.akarsh@research.iiit.ac.in
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact:  -->
-
 <br>
 <br>
 <p align="center">
